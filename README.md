@@ -40,7 +40,6 @@ Full-stack application with authentication, authorization, and user-specific dat
 Full-stack project with a strong focus on backend architecture, REST APIs, and database design.  
 **Tech:** Java, Spring Boot, MySQL  
 🔗 https://github.com/RajanDz/Monamour
-
 ---
 
 ### 🧪 Work in Progress
@@ -49,3 +48,10 @@ Full-stack project with a strong focus on backend architecture, REST APIs, and d
 Backend project exploring JWT authentication and role-based authorization.  
 **Tech:** Java, Spring Boot, Spring Security  
 🔗 https://github.com/RajanDz/SpringSecurity
+
+
+#### 🅿️ ParkingPG (Full-Stack Application)
+Application for tracking parking garage availability, consisting of a React frontend and a Spring Boot backend.  
+**Tech:** Java, Spring Boot, PostgreSQL, React  
+🔗 Frontend: https://github.com/RajanDz/parkingPg  
+🔗 Backend: https://github.com/RajanDz/parkingPgBackend
