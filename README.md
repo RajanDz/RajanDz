@@ -40,6 +40,7 @@ Full-stack application with authentication, authorization, and user-specific dat
 Full-stack project with a strong focus on backend architecture, REST APIs, and database design.  
 **Tech:** Java, Spring Boot, MySQL  
 🔗 https://github.com/RajanDz/Monamour
+
 ---
 
 ### 🧪 Work in Progress
