@@ -52,6 +52,6 @@ Backend project exploring JWT authentication and role-based authorization.
 
 #### 🅿️ ParkingPG (Full-Stack Application)
 Application for tracking parking garage availability, consisting of a React frontend and a Spring Boot backend.  
-**Tech:** Java, Spring Boot, PostgreSQL, React  
+**Tech:** Java, Spring Boot, MySQL, React  
 🔗 Frontend: https://github.com/RajanDz/parkingPg  
 🔗 Backend: https://github.com/RajanDz/parkingPgBackend
