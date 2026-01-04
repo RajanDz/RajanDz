@@ -56,3 +56,8 @@ Application for tracking parking garage availability, consisting of a React fron
 **Tech:** Java, Spring Boot, MySQL, React  
 🔗 Frontend: https://github.com/RajanDz/parkingPg  
 🔗 Backend: https://github.com/RajanDz/parkingPgBackend
+
+---
+
+📫 Open to collaboration and learning opportunities.
+
