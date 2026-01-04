@@ -1,23 +1,51 @@
-## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!--
-**RajanDz/RajanDz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
 
-Here are some ideas to get you started:
+I'm a 20-year-old developer interested in **full-stack development**, with a strong focus on **Java and backend technologies**.  
+I enjoy building projects to learn **system design**, **clean code**, and **best practices**.  
+Currently looking for opportunities to grow through **real-world projects**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- Maven
+- MySQL
+- Supabase
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React
+
+**Dev / Cloud**
+- Git & GitHub
+- Linux
+- AWS
+
+---
+
+### 🚀 Featured Projects
+
+#### 📅 Calendar To-Do Application
+Full-stack application with authentication, authorization, and user-specific data.  
+**Tech:** Java, Spring Boot, Spring Security, MySQL, React  
+🔗 https://github.com/RajanDz/CalendarToDoApplication
+
+#### 🛒 Monamour (E-commerce App)
+Full-stack project with a strong focus on backend architecture, REST APIs, and database design.  
+**Tech:** Java, Spring Boot, MySQL  
+🔗 https://github.com/RajanDz/Monamour
+
+---
+
+### 🧪 Work in Progress
+
+#### 🔐 SpringSecurity
+Backend project exploring JWT authentication and role-based authorization.  
+**Tech:** Java, Spring Boot, Spring Security  
+🔗 https://github.com/RajanDz/SpringSecurity
