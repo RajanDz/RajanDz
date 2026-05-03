@@ -1,6 +1,6 @@
 ## Hello 👋
 
-I'm a 20-year-old developer interested in **full-stack development**, with a strong focus on **Java and backend technologies**.  
+I'm a 21-year-old developer interested in **full-stack development**, with a strong focus on **Java and backend technologies**.  
 I enjoy building projects to learn **system design**, **clean code**, and **best practices**.  
 Currently looking for opportunities to grow through **real-world projects**.
 
